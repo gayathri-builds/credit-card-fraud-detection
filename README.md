@@ -54,9 +54,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 
 ## 📸 Sample Workflow Screenshot
-
-*(Insert a screenshot of your KNIME workflow here)*
-
+<img width="712" height="698" alt="Screenshot 2025-08-04 205207" src="https://github.com/user-attachments/assets/5f17f314-9a10-4a90-8542-097af48973e8" />
 
 ## 🚀 How to Run
 
